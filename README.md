@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/your-id/your-repo.svg?branch=master)](https://travis-ci.org/luminilion/bootcamp)
+[![Build Status](https://travis-ci.org/Luminilion/bootcamp.svg?branch=master)](https://travis-ci.org/Luminilion/bootcamp)
